@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "K/rYx0TMC3IJv2xSzTDadSF1AeQKESozzwyAdzUH0ayucrteSpIj0fuYWrkp40fFrZ4rFHkMGKDNitKN0Ff5Iw==",
+  "success": true,
+  "projectFilePath": "E:\\Interview\\1111\\Ordering.Queries\\Ordering.Queries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
