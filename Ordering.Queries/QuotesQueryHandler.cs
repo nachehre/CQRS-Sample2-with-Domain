@@ -20,7 +20,7 @@ namespace Ordering.Queries
 		public IList<Quote> Handle(QuotesQuery query)
 		{
 			var suppliers = supplierRepository.GetAvailableSuppliers();
-
+//To DO : Read From ..
 			return suppliers
 				.Select(supplier => stroopwafelSupplierServiceFactory
 					.GetSupplierService(supplier)
